@@ -1,6 +1,7 @@
 # Your-life-in-weeks
 
 age = input("What is your current age?")
+
 age_as_int = int(age)
 
 years_remaining = 90 - age_as_int
